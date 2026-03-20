@@ -1,0 +1,39 @@
+{
+  "title": "Hiperprolaktinemi ve Prolaktinoma",
+  "meta": {
+    "updatedAt": "16 Mar 2026",
+    "tags": ["Endokrinoloji", "Prolaktin", "Dopamin Agonist", "Hook Effect", "Makroprolaktinemi"],
+    "parent": "on-hipofiz-hastaliklari-giris",
+    "order": 2
+  },
+  "sections": [
+    {
+      "heading": "🤖",
+      "html": "<p><em>⚠️ <strong>Uzman Modülü:</strong> Harrison 21st Ed & Endocrine Society 2024 (Hyperprolactinemia Guideline) güncel verileriyle hazırlanmıştır.</em></p>"
+    },
+    {
+      "heading": "Patofizyoloji: Dopaminerjik İnhibisyonun Kaybı",
+      "html": "<p>Prolaktin, diğer ön hipofiz hormonlarının aksine hipotalamus tarafından <strong>tonik olarak inhibe</strong> edilir. Ana inhibitör faktör <strong>Dopamin</strong>'dir. Bu inhibisyonun herhangi bir nedenle (tümör, ilaç, sap basısı) kalkması hiperprolaktinemiye yol açar.</p>"
+    },
+    {
+      "heading": "Etiyoloji: Fizyolojik, Patolojik ve Farmakolojik",
+      "html": "<p>Hiperprolaktinemi her zaman bir adenom demek değildir. Ayrım uzmanlık gerektirir:</p><ul class=\"mb-4\"><li><strong>Fizyolojik:</strong> Gebelik (en sık), laktasyon, meme ucu stimülasyonu, ağır egzersiz, uyku ve stres.</li><li><strong>Farmakolojik (İlaçlar):</strong> Dopamin antagonistleri (Antipsikotikler: Haloperidol, Risperidon), Metoklopramid, Verapamil, SSRI'lar.</li><li><strong>Patolojik:</strong> Prolaktinoma (en sık patolojik neden), Hipotroidi (Artan TRH etkisiyle), Kronik Böbrek Yetmezliği (klirens azalması).</li><li><strong>Hipofiz Sap Basısı:</strong> Hipotalamik dopaminin hipofize ulaşamaması durumu (Herhangi bir non-fonksiyonel makroadenom buna yol açabilir - 'Stalk Effect').</li></ul>"
+    },
+    {
+      "heading": "Tanısal Tuzaklar: Makroprolaktin ve Hook Effect",
+      "html": "<p>Laboratuvar sonuçlarını yorumlarken iki kritik fenomene dikkat edilmelidir:</p><ul class=\"mb-4\"><li><strong>1. Makroprolaktinemi:</strong> Prolaktinin IgG antikorlarına bağlanarak büyük kompleksler oluşturmasıdır. Biyolojik olarak inaktiftir ancak laboratuvarda yüksek ölçülür. Asemptomatik hastalarda <strong>PEG (Polietilen Glikol) presipitasyonu</strong> ile ayırt edilmelidir.</li><li><strong>2. Hook Effect (Çengel Etkisi):</strong> Çok yüksek prolaktin düzeylerinde (>5000 ng/mL) laboratuvar kitinin doygunluğa ulaşıp sonucu yanlışlıkla düşük veya normal (Örn: 50-100 ng/mL) göstermesidir. Şüpheli makroadenomlarda <strong>serum dilüsyonu</strong> istenmelidir.</li></ul>"
+    },
+    {
+      "heading": "Klinik Bulgular: Hipogonadotropik Hipogonadizm",
+      "html": "<p>Yüksek prolaktin, GnRH salınımını inhibe ederek klinikte şu tablolara yol açar:</p><ul class=\"mb-4\"><li><strong>Kadınlarda:</strong> Amenore, oligomenore, infertilite ve galaktore (%80).</li><li><strong>Erkeklerde:</strong> Libido kaybı, erektil disfonksiyon, infertilite, jinekomasti ve galaktore (nadir).</li><li><strong>Kitle Etkisi:</strong> Baş ağrısı ve görme alanı defektleri (Makroadenomlarda).</li></ul>"
+    },
+    {
+      "heading": "Tedavi: Dopamin Agonistleri İlk Seçenek",
+      "html": "<p>Prolaktinomalar, cerrahiden önce medikal tedaviye (dopamin agonistleri) dramatik yanıt veren nadir tümörlerdendir.</p><ul class=\"mb-4\"><li><strong>Kabergolin:</strong> Yüksek etkinlik ve uzun yarı ömrü (haftada 1-2 doz) nedeniyle ilk seçenektir. Yan etki profili daha iyidir.</li><li><strong>Bromokriptin:</strong> Daha kısa ömürlüdür; ancak gebelik güvenliği konusunda daha eski ve geniş veriye sahiptir.</li><li><strong>Cerrahi (Transsfenoidal):</strong> İlaç direncinde, dopamin agonistlerini tolere edemeyenlerde veya görme kaybı hızla ilerleyen kistik tümörlerde düşünülür.</li></ul>"
+    },
+    {
+      "heading": "Gebelik ve Prolaktinoma Yönetimi",
+      "html": "<p>Gebelik tespit edildiği anda (mikroadenomlarda) genellikle dopamin agonisti kesilir. Makroadenomlarda ise gebelik boyunca tümör büyüme riski (%20-30) nedeniyle yakın takip ve gerekirse ilaca devam kararı uzmanlık konseyi ile verilir.</p>"
+    }
+  ]
+}

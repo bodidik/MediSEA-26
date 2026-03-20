@@ -1,0 +1,19 @@
+{
+  "title": "Cushing Sendromu (Hiperkortizolizm)",
+  "meta": {
+    "updatedAt": "14 Mar 2026",
+    "tags": ["Endokrin", "Kortizol", "Obezite"],
+    "parent": "adrenal-korteks-hastaliklari",
+    "order": 2
+  },
+  "sections": [
+    {
+      "heading": "Tanım ve Bulgular",
+      "text": "<p>Kronik glukokortikoid fazlalığı tablosudur. Santral obezite, Ay dede yüzü (Moon face), Ensede yağ birikimi (Buffalo hump) ve mor strialar tipiktir.</p>"
+    },
+    {
+      "heading": "En Sık Neden?",
+      "text": "<p>Cushing sendromunun en sık nedeni <strong>İyatrojenik</strong>tir (Dışarıdan uzun süre steroid kullanımı).</p>"
+    }
+  ]
+}

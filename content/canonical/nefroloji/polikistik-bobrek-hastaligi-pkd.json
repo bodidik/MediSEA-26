@@ -1,0 +1,35 @@
+{
+  "title": "Polikistik Böbrek Hastalığı (PKD)",
+  "meta": {
+    "updatedAt": "16 Mar 2026",
+    "tags": ["Nefroloji", "PKD", "ADPKD", "Kistik Böbrek", "Serebral Anevrizma", "Tolvaptan"],
+    "parent": "nefroloji-hastaliklari",
+    "order": 5
+  },
+  "sections": [
+    {
+      "heading": "🤖",
+      "html": "<p><em>⚠️ <strong>Akademik Not:</strong> Harrison 21st Ed & KDIGO 2024 verileriyle hazırlanmıştır.</em></p>"
+    },
+    {
+      "heading": "Genetik Temel: PKD1 ve PKD2",
+      "html": "<p>Polikistik Böbrek Hastalığı, böbrek tübüllerinden köken alan çok sayıda kist ile karakterize sistemik bir hastalıktır.</p><ul class=\"mb-4\"><li><strong>PKD1 Mutasyonu (%85):</strong> 16. kromozom üzerindedir. <em>Polisistin-1</em> proteinini kodlar. Klinik seyri daha ağırdır; son dönem böbrek yetmezliği (SDBY) genellikle 50'li yaşlarda gelişir.</li><li><strong>PKD2 Mutasyonu (%15):</strong> 4. kromozom üzerindedir. <em>Polisistin-2</em> proteinini kodlar. Daha hafif seyirlidir; SDBY gelişimi 70'li yaşlara kadar uzayabilir.</li></ul>"
+    },
+    {
+      "heading": "Patofizyoloji: Silyer Bozukluk ve Kist Oluşumu",
+      "html": "<p>Polisistin proteinleri, tübüler hücrelerin <strong>Primer Silya</strong> yapısında bulunur. Bu proteinlerin eksikliği, hücre içi kalsiyum dengesini bozarak cAMP artışına, kontrolsüz hücre proliferasyonuna ve tübül lümeninden sıvı salgılanmasına neden olur; sonuç kist oluşumudur.</p>"
+    },
+    {
+      "heading": "Sistemik Klinik Bulgular: Böbrek ve Ötesi",
+      "html": "<p>ADPKD sadece böbreği etkilemez, çok organlı bir hastalıktır:</p><ul class=\"mb-4\"><li><strong>Renal Bulgular:</strong> Hipertansiyon (genellikle GFR düşmeden önce başlar), yan ağrısı (kist kanaması veya enfeksiyonu), makroskobik hematüri ve nefrolitiazis (taş hastalığı).</li><li><strong>Ekstrarenal Bulgular:</strong> <ul><li><strong>Karaciğer Kistleri:</strong> En sık görülen ekstrarenal bulgudur (kadınlarda daha yaygın).</li><li><strong>Serebral Anevrizmalar:</strong> Circle of Willis yerleşimli 'Berry' anevrizmaları. Subaraknoid kanama riski nedeniyle aile öyküsü olanlar taranmalıdır.</li><li><strong>Kalp Kapakları:</strong> Mitral Valv Prolapsusu (MVP).</li><li><strong>Divertikülozis:</strong> Kolon divertiküllerinde artış.</li></ul></li></ul>"
+    },
+    {
+      "heading": "Tanı: Görüntüleme ve Genetik",
+      "html": "<p>Tanıda genellikle ultrasonografi (USG) yeterlidir, ancak genetik testler belirsiz vakalarda değerlidir.</p><ul class=\"mb-4\"><li><strong>Ultrasonografi (Ravine Kriterleri):</strong> Aile öyküsü olanlarda yaşa göre kist sayısı (Örn: 15-39 yaş arası her iki böbrekte toplam en az 3 kist) tanı koydurur.</li><li><strong>BT/MRG:</strong> Küçük kistleri saptamada ve 'Total Böbrek Volümü' (TKV) ölçümünde daha duyarlıdır.</li><li><strong>Genetik Test:</strong> Donör olacak aile bireylerinde veya atipik sunumlarda endikedir.</li></ul>"
+    },
+    {
+      "heading": "Tedavi ve Progresyon Yönetimi",
+      "html": "<p>Temel hedef kist büyümesini yavaşlatmak ve GFR kaybını durdurmaktır.</p><ul class=\"mb-4\"><li><strong>Sıvı Alımı:</strong> Bol su içmek (günde >3L), endojen vazopressini baskılayarak kist büyümesini yavaşlatabilir.</li><li><strong>RAAS Blokajı:</strong> ACE inhibitörleri (veya ARB), hipertansiyon tedavisinde ilk seçenektir.</li><li><strong>V2 Reseptör Antagonistleri (Tolvaptan):</strong> cAMP artışını engelleyerek kist büyümesini ve GFR kaybını belirgin şekilde yavaşlatan, spesifik onaylı tek ilaçtır. ⚠️ <em>Dikkat:</em> Hepatotoksisite riski nedeniyle yakın takip gerektirir.</li><li><strong>Diyet:</strong> Düşük sodyum ve normal protein alımı önerilir.</li></ul>"
+    }
+  ]
+}

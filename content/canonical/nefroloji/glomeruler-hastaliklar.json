@@ -1,0 +1,15 @@
+{
+  "title": "Ch 326: Glomerüler Hastalıklar",
+  "meta": {
+    "updatedAt": "16 Mar 2026",
+    "tags": ["Nefroloji", "Proteinüri", "Hematüri", "Biyopsi"],
+    "parent": "nefroloji-hastaliklari",
+    "order": 3
+  },
+  "sections": [
+    {
+      "heading": "Klinik Sendromlar",
+      "text": "<p>Glomerül hasarı genellikle iki ana tablo ile karşımıza çıkar. Kesin tanı için Renal Biyopsi şarttır.</p><div class='grid gap-4 md:grid-cols-2 mt-4'><div class='bg-yellow-50 p-4 rounded border-l-4 border-yellow-500'><h5 class='font-bold text-yellow-900'>1. Nefrotik Sendrom</h5><ul class='list-disc pl-5 mt-2 text-xs text-gray-700'><li><strong>Masif Proteinüri:</strong> > 3.5 g/gün</li><li><strong>Hipoalbüminemi:</strong> < 3.0 g/dL</li><li><strong>Ödem:</strong> Yaygın (Anazarka)</li><li><strong>Hiperlipidemi</strong></li><li><em>Örn: Minimal Değişiklik, Membranöz, FSGS</em></li></ul></div><div class='bg-red-50 p-4 rounded border-l-4 border-red-500'><h5 class='font-bold text-red-900'>2. Nefritik Sendrom</h5><ul class='list-disc pl-5 mt-2 text-xs text-gray-700'><li><strong>Hematüri:</strong> Dismorfik eritrosit / Eritrosit silendirleri</li><li><strong>Hipertansiyon</strong></li><li><strong>Oligüri ve ABH</strong> (Kreatinin artışı)</li><li><em>Örn: Poststreptokoksik GN, IgA Nefropatisi, Lupus Nefriti</em></li></ul></div></div>"
+    }
+  ]
+}

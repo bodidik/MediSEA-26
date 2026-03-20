@@ -1,0 +1,35 @@
+{
+  "title": "Hipotiroidi: Hashimoto'dan Miksödem Komasına",
+  "meta": {
+    "updatedAt": "16 Mar 2026",
+    "tags": ["Endokrinoloji", "Hipotiroidi", "Hashimoto", "Anti-TPO", "Levotiroksin", "Miksödem"],
+    "parent": "tiroid-hastaliklari-ana",
+    "order": 2
+  },
+  "sections": [
+    {
+      "heading": "🤖",
+      "html": "<p><em>⚠️ <strong>Uzman Modülü:</strong> Harrison 21st Ed & 2024 ATA Hipotiroidi Yönetim Kılavuzu referanslıdır.</em></p>"
+    },
+    {
+      "heading": "Etiyoloji: Dünyada İyot, Gelişmiş Ülkelerde Hashimoto",
+      "html": "<p>Hipotiroidi, tiroid hormonu yetersizliği sonucu tüm vücut fonksiyonlarının yavaşlamasıdır.</p><ul class=\"mb-4\"><li><strong>Primer Hipotiroidi (>%95):</strong> Tiroid bezi kaynaklıdır. En sık neden iyot yeterli bölgelerde <strong>Hashimoto Tiroiditi</strong>'dir.</li><li><strong>İatrojenik:</strong> Radyoaktif iyot (RAİ) tedavisi veya tiroidektomi sonrası.</li><li><strong>Santral Hipotiroidi:</strong> Hipofiz veya hipotalamus hasarına bağlı (TSH eksikliği).</li><li><strong>İlaçlar:</strong> Amiodaron, Lityum, İnterferon-alfa.</li></ul>"
+    },
+    {
+      "heading": "Hashimoto Tiroiditi (Kronik Lenfositik Tiroidit)",
+      "html": "<p>Otoimmün bir yıkım sürecidir. T-hücre aracılı sitotoksisite ve antikorlar rol oynar.</p><ul class=\"mb-4\"><li><strong>Antikorlar:</strong> <strong>Anti-TPO</strong> (%95+) ve Anti-Tiroglobulin (%60+) pozitiftir.</li><li><strong>USG Bulgusu:</strong> Diffüz büyüme (guatr), heterojen ve hipoekoik 'pseudonodüler' görünüm.</li><li><strong>Klinik Seyir:</strong> Başlangıçta kısa süreli 'Hashitoksikoz' görülebilir, ancak sonuç daima kalıcı hipotiroididir.</li></ul>"
+    },
+    {
+      "heading": "Klinik Spektrum: Sinsi ve Yaygın",
+      "html": "<p>Bulgular metabolizmanın yavaşlamasına sekonderdir:</p><ul class=\"mb-4\"><li><strong>Genel:</strong> Soğuğa tahammülsüzlük, kilo alımı (ödem nedeniyle), halsizlik.</li><li><strong>Dermatolojik:</strong> Kuru ve kaba cilt, saç dökülmesi, periorbital ödem (Miksödem).</li><li><strong>GİS:</strong> Konstipasyon (en sık semptomlardan biri).</li><li><strong>Kardiyovasküler:</strong> Bradikardi, diastolik hipertansiyon, perikardiyal efüzyon.</li><li><strong>Nöro-psikiyatrik:</strong> Depresyon, unutkanlık ('Brain fog'), karpal tünel sendromu.</li></ul>"
+    },
+    {
+      "heading": "Tedavi Yönetimi: Levotiroksin (LT4) Sanatı",
+      "html": "<p>Hedef, serum TSH düzeyini normal sınırlara çekmektir.</p><ul class=\"mb-4\"><li><strong>Doz:</strong> Genç/sağlıklı erişkinlerde 1.6 µg/kg/gün.</li><li><strong>Kritik Kural (Yaşlı/Kardiyak):</strong> 'Start Low, Go Slow'. 25 µg/gün ile başlanır, 4-6 haftada bir TSH takibiyle doz artırılır.</li><li><strong>Uygulama:</strong> İlaç sabah aç karnına, kahvaltıdan en az 30-60 dk önce sadece su ile alınmalıdır. (Demir, kalsiyum ve PPI'lar emilimi bozar).</li><li><strong>Gebelik:</strong> Doz genellikle %30-50 oranında hemen artırılmalıdır.</li></ul>"
+    },
+    {
+      "heading": "Miksödem Koması: Ölümcül Uç Nokta",
+      "html": "<p>Ağır, tedavi edilmemiş hipotiroidinin bir tetikleyici (enfeksiyon, MI, soğuk maruziyeti) ile dekompanse olmasıdır.</p><ul class=\"mb-4\"><li><strong>Triad:</strong> Hipotermi, Bradikardi, Bilinç Değişikliği (Komaya kadar gider).</li><li><strong>Acil Tedavi:</strong> Beklemeden IV yüksek doz Levotiroksin (ve mümkünse Liotironin). ⚠️ <strong>Önemli:</strong> Adrenal yetmezlik dışlanana kadar mutlaka IV <strong>Glukokortikoid</strong> (Hidrokortizon) eş zamanlı verilmelidir.</li></ul>"
+    }
+  ]
+}
